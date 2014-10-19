@@ -1,0 +1,2 @@
+result = if a == c
+           234 + 2

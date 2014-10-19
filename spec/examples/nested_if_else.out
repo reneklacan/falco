@@ -1,0 +1,24 @@
+if x > 3
+  x = 3
+  if y == 2
+    z = 2
+    g = 2312
+  else
+    a = 123 if g
+    if o < 231
+      puts 'fsdfsd'
+    end
+  end
+  puts 'fsdfsd' if g
+  if true
+    if true
+      if true
+        if true
+          o = 3
+        end
+      end
+    end
+  end
+else
+  g = 3
+end

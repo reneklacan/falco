@@ -1,0 +1,4 @@
+if true
+  puts "abc"
+result = if a == c
+  234 + 2

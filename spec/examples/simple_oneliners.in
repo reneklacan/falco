@@ -1,0 +1,7 @@
+puts "ratata" if a == b || c == d
+c += 3 unless x.nil?
+puts "ratata" \
+  if a == b || c == d
+c += 3 \
+  unless x.nil?
+x = 1

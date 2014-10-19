@@ -1,0 +1,6 @@
+class Test
+  X = 3
+  def abc
+    y = 3
+  def edf
+    puts 'fsdfsd'

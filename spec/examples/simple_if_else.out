@@ -1,0 +1,6 @@
+if true
+  puts "abc"
+else
+  x += 3
+  y = 3 + 2
+end

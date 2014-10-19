@@ -1,0 +1,7 @@
+items.each do |item|
+  puts item.id
+  item.name += ' Discount!'
+items.each{ |item| puts item.name }
+items.each{ |item|
+  puts item.name
+}

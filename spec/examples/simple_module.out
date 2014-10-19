@@ -1,0 +1,3 @@
+module Test
+  X = 3
+end
